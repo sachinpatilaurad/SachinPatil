@@ -7,8 +7,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Blockchain-Based Secure E-Voting System**
-- 🌱 Learning **React.js, TypeScript, and Blockchain**
+- 🔭 I’m currently working on **FRONT END PROJECT**
+- 🌱 Learning **React.js, **
 - 🎯 Aspiring to become a **Software Developer**
 - 💬 Ask me about **Web Development, Blockchain, and DSA**
 - ⚡ Fun fact: **Die-hard RCB fan! 🔥🏏**
